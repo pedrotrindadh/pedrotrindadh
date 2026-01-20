@@ -8,7 +8,7 @@
 
 🎓 I graduated in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) from [Mackenzie](https://www.mackenzie.br).
 
-🎓 I have a postgraduate in [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security) from [São Francisco](https://www.usf.edu.br).
+🎓 I have a postgraduate degree in [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security) from [São Francisco](https://www.usf.edu.br).
 
 👩‍💻 Focused on Java, SpringBoot, AWS. 
 
