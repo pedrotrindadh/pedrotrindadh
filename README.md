@@ -1,21 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259797&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!!!,+My+name's+Pedro+Trindade;I'm+Brazilian;I'm+a+BackEnd+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!!!,+My+name's+Pedro+Trindade;I'm+Brazilian;I'm+a+BackEnd+FullStack;Welcome!+:%29)](https://git.io/typing-svg)
 
 ### About me... 👨🏽‍🎓
 
-💻 I'm a BackEnd Developer.
+💻 I'm a FullStack Developer.
 
 🎓 I graduated in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) from [Mackenzie](https://www.mackenzie.br).
 
 🎓 I have a postgraduate degree in [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security) from [São Francisco](https://www.usf.edu.br).
 
-👩‍💻 Focused on Java, SpringBoot, AWS. 
+👩‍💻 Focused on React, Java, SpringBoot, Azure. 
 
 🎡 My hobbies are watch american football, baseball and movies on the weekend, during week I like workout.
 
 ### My knowledges🧠
 
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
